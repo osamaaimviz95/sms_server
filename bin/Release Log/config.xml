@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<item id="db">server=192.168.1.209;user id=request;password=pass;database=RequestListener</item>
+	<item id="header.length">5</item> 
+	<item id="Console.MaxRows">10</item>
+	<item id="port">6001</item>
+	<item id="rahaxi.timeout">30</item>
+	<item id="netteller.timeout">30</item>
+	<item id="smtp.server">192.168.1.50</item>
+	<item id="email.to">judasracabrera@hotmail.com</item>
+	<item id="email.from">rcabrera@rahaxi.net</item>
+	<item id="email.subject">MetroPoker Notification</item>
+	<item id="netellerURI">https://www.neteller.com</item>
+	<item id="del">,</item>
+	<item id="prototype">
+		<item id="LODXMLV001">LODXMLV001,12345,050820121212,SESS,IP,a,a</item>		
+		<item id="LSTRNSV001">LSTRNSV001,12345,050820121212,SESS,IP,a,a</item>
+		<item id="STAVERV001">STAVERV001,12345,050820121212,SESS,IP,a,a</item>
+		<item id="BALINQV001">BALINQV001,12345,050820121212,SESS,IP,a,a,A,n</item>
+		<item id="DEPCRDV001">DEPCRDV001,12345,050820121212,SESS,IP,n,n,n,ex,a,n,a</item>
+		<item id="DEPNTAV001">DEPNTAV001,12345,050820121212,SESS,IP,n,n,n,n,a</item>
+		<item id="WTHNTAV001">WTHNTAV001,12345,050820121212,SESS,IP,n,n,n,a</item>
+		<item id="UPCHBLV001">UPCHBLV001,12345,050820121212,SESS,IP,n,n,a,a,a,a</item>
+		<item id="P2PTFRV001">P2PTFRV001,12345,050820121212,SESS,IP,n,n,n,a,a</item>
+		<item id="NUCUACV001">NUCUACV001,12345,050820121212,SESS,IP,n,a,a,a,a,a,a,a,a,a,n,n,a</item>
+		<item id="USEUEPV001">USEUEPV001,12345,050820121212,SESS,IP,a,n,n,a,a</item>
+    <item id="USECNFV001">USECNFV001,12345,050820121212,SESS,IP,a,a,a,a</item>
+		<item id="TFRUEPV001">TFRUEPV001,12345,050820121212,SESS,IP,a,a,n,a,a,a,n,a</item>
+	</item>
+	<item id="response">
+		<item id="LODXMLV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Result}</item>		
+		<item id="LSTRNSV001"></item>
+		<item id="STAVERV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}[{Comments}]{0}{EOM}</item>
+		<item id="BALINQV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Available Balance}{0}[{Comments}]</item>
+		<item id="DEPCRDV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Result}{0}{Authorization Code}{0}{Reference}{0}{Transaction ID}{0}{Error Message}{0}[{Comments}]</item>
+		<item id="DEPNTAV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Result}{0}{Transaction ID}{0}{Error Message}{0}[{Comments}]</item>
+		<item id="WTHNTAV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Result}{0}{Transaction ID}{0}{Error Message}{0}[{Comments}]</item>
+		<item id="UPCHBLV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}[{Comments}]</item>
+		<item id="P2PTFRV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}[{Comments}]</item>
+		<item id="NUCUACV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Customer Account Id}{0}[{Comments}]</item>
+		<item id="USEUEPV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Authorization}{0}[{Comments}]{0}{EOM}</item>
+		<item id="USECNFV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}{Authorization}{0}{Merchant}{0}[{Comments}]{0}{EOM}</item>
+		<item id="TFRUEPV001">{Original Transaction Num}{0}{Response Transaction Id}{0}{Response status}{0}{Timestamp}{0}[{Comments}]</item>
+
+
+	</item>
+	<item id="description">
+		<item id="LSTRNSV001"></item>
+		<item id="STAVERV001">Get the status</item>
+		<item id="BALINQV001">Get the balance</item>
+		<item id="LODXMLV001">Reload the transaction list</item>
+		<item id="DEPCRDV001">Deposit Account Credit/Debit Card </item>
+		<item id="UPCHBLV001">[no description]</item>
+		<item id="P2PTFRV001">[no description]</item>
+		<item id="WTHNTAV001">[no description]</item>
+		<item id="DEPNTAV001">[no description]</item>
+		<item id="NUCUACV001">[no description]</item>
+		<item id="TFRUEPV001">UEP Trasnfer</item>
+		<item id="USEUEPV001">UEP Use</item>
+		<item id="USECNFV001">UEP Confirmation</item>		
+	</item>
+	<item id="errors">
+		<item id="TOO FEW ARGUMENTS">{1}{0}{2}{0}{3}{0}{4}{0}[TOO FEW ARGUMENTS]</item>
+		<item id="TOO MANY ARGUMENTS">{1}{0}{2}{0}{3}{0}{4}{0}[TOO MANY ARGUMENTS]</item>
+		<item id="UNKNOWN FUNCTION">{1}{0}{2}{0}{3}{0}{4}{0}[UNKNOWN FUNCTION : {5}]</item>
+		<item id="HEADER EXPECTED">{1}{0}{2}{0}{3}{0}{4}{0}[HEADER EXPECTED]</item>
+		<item id="MISSING ARGUMENTS">{1}{0}{2}{0}{3}{0}{4}{0}[MISSING ARGUMENTS]</item>
+		<item id="PROBLEM WITH FORMAT">{1}{0}{2}{0}{3}{0}{4}{0}[PROBLEM WITH FORMAT]</item>
+		<item id="ERROR ON ARG">{1}{0}{2}{0}{3}{0}{4}{0}[ERROR ON ARG {5}]</item>
+		<item id="WRONG TIME FORMAT">{1}{0}{2}{0}{3}{0}{4}{0}[WRONG TIME FORMAT ON HEADER: {5}]</item>
+		<item id="WRONG TRANSACTION NUMBER FORMAT ON HEADER">{1}{0}{2}{0}{3}{0}{4}{0}[WRONG TRANSACTION NUMBER FORMAT ON HEADER: {5}]</item>
+		<item id="MISSING EoM">{1}{0}{2}{0}{3}{0}{4}{0}[MISSING EoM]</item>
+                <item id="END OF MESSAGE EQUAL TO FIELD SEPARATOR">{1}{0}{2}{0}{3}{0}{4}{0}[END OF MESSAGE MUST BE DIFFERENT TO FIELD SEPARATOR]</item>
+		<item id="WRONG MONEY TYPE">{1}{0}{2}{0}{3}{0}{4}{0}[WRONG MONEY TYPE ON HEADER: {5}]</item>
+	</item>
+</config>

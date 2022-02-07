@@ -1,0 +1,17 @@
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\PaymentServer.exe.config
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\PaymentServer.exe
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\PaymentServer.XmlSerializers.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\PaymentServer.pdb
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\Interop.e24TranPipeLib.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\Janus.Windows.Common.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Release Log\Janus.Windows.GridEX.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\SMSServer.csproj.ResolveComReference.cache
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\MessageViewer.Properties.Resources.resources
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\MessageViewer.TransViewer.resources
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\SMSServer.csproj.GenerateResource.cache
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\PaymentServer.exe.licenses
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\SMSServer.csproj.CoreCompileInputs.cache
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\SMSServer.csproj.CopyComplete
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\PaymentServer.exe
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\PaymentServer.pdb
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Release Log\PaymentServer.XmlSerializers.dll

@@ -1,0 +1,42 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MessageViewer.Properties.Resources.resources
+obj\Debug\MessageViewer.TransViewer.resources
+obj\Debug\PaymentServer.csproj.GenerateResource.Cache
+obj\Debug\PaymentServer.exe.licenses
+bin\Debug\PaymentServer.exe
+bin\Debug\PaymentServer.pdb
+obj\Debug\PaymentServer.exe
+obj\Debug\PaymentServer.pdb
+bin\Release\PaymentServer.exe
+bin\Release\PaymentServer.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MessageViewer.Properties.Resources.resources
+obj\Release\MessageViewer.TransViewer.resources
+obj\Release\PaymentServer.csproj.GenerateResource.Cache
+obj\Release\PaymentServer.exe.licenses
+obj\Release\PaymentServer.exe
+obj\Release\PaymentServer.pdb
+bin\Debug\Interop.e24TranPipeLib.dll
+bin\Debug\Janus.Windows.Common.dll
+bin\Debug\Janus.Windows.GridEX.dll
+obj\Debug\PaymentServer.csproj.ResolveComReference.cache
+bin\Release\Interop.e24TranPipeLib.dll
+bin\Release\Janus.Windows.Common.dll
+bin\Release\Janus.Windows.GridEX.dll
+obj\Release\PaymentServer.csproj.ResolveComReference.cache
+bin\Release Log\PaymentServer.exe
+bin\Release Log\PaymentServer.pdb
+bin\Release Log\Interop.e24TranPipeLib.dll
+bin\Release Log\Janus.Windows.Common.dll
+bin\Release Log\Janus.Windows.GridEX.dll
+obj\Release Log\ResolveAssemblyReference.cache
+obj\Release Log\PaymentServer.csproj.ResolveComReference.cache
+obj\Release Log\MessageViewer.Properties.Resources.resources
+obj\Release Log\MessageViewer.TransViewer.resources
+obj\Release Log\PaymentServer.csproj.GenerateResource.Cache
+obj\Release Log\PaymentServer.exe.licenses
+obj\Release Log\PaymentServer.exe
+obj\Release Log\PaymentServer.pdb
+bin\Release Log\PaymentServer.exe.config
+bin\Release Log\PaymentServer.XmlSerializers.dll
+obj\Release Log\PaymentServer.XmlSerializers.dll

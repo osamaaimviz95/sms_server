@@ -1,0 +1,52 @@
+RequestQueue
+	0	0	0	0	1	22-02-05 11:33:50:157	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-05 11:33:50:173	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-05 11:33:50:188	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-05 11:33:50:204	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-05 11:33:50:260	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-05 11:33:50:304	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-05 11:33:50:305	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-05 11:33:50:314	Application was started.
+Listener
+	0	0	0	0	9	22-02-05 11:33:52:139	Listening on port 6001.
+MainScreen
+	0	0	0	0	10	22-02-05 11:48:22:882	Pausing Listener ...
+Listener
+	0	0	0	0	11	22-02-05 11:48:22:895	Changing status to paused ...
+Listener
+	0	0	0	0	12	22-02-05 11:48:22:910	Changing status to paused ...
+MainScreen
+	0	0	0	0	13	22-02-05 11:48:22:926	Listener Paused.
+MainScreen
+	0	0	0	0	14	22-02-05 11:48:22:942	Finishing pending transactions ...
+ThreadController
+	0	0	0	0	15	22-02-05 11:48:22:957	Resume Work Flag was activated. Pending Requests: 0
+MainScreen
+	0	0	0	0	16	22-02-05 11:48:22:973	Pending transactions Finished.
+MainScreen
+	0	0	0	0	17	22-02-05 11:48:22:988	Disconecting Listener ...
+ThreadController
+	0	0	0	0	18	22-02-05 11:48:22:988	Exiting from Read Queue Loop. Last Transaction Processed: 0
+Listener
+	0	0	0	0	19	22-02-05 11:48:23:004	Changing status to stopped ...
+Listener
+	0	0	0	0	20	22-02-05 11:48:23:050	Status was changed to stopped ...
+Listener
+	0	0	0	0	21	22-02-05 11:48:23:066	Wait until all sockets finish their job ...
+Listener
+	0	0	0	0	22	22-02-05 11:48:23:082	All sockets finished their job.
+Listener
+	0	0	0	0	23	22-02-05 11:48:23:097	Disconnecting from port 6001 ...
+Listener
+	0	0	0	0	24	22-02-05 11:48:23:113	Disconnected from port 6001.
+MainScreen
+	0	0	0	0	25	22-02-05 11:48:23:186	Listener disconected.
+Listener
+	1	0	0	0	26	22-02-05 11:48:23:200	A blocking operation was interrupted by a call to WSACancelBlockingCall

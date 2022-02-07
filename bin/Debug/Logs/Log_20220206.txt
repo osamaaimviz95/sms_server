@@ -1,0 +1,731 @@
+RequestQueue
+	0	0	0	0	1	22-02-06 10:30:54:949	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-06 10:30:54:967	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-06 10:30:54:983	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-06 10:30:54:998	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-06 10:30:55:076	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-06 10:30:55:105	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-06 10:30:55:107	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-06 10:30:55:122	Application was started.
+Listener
+	0	0	0	0	9	22-02-06 10:31:00:202	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-06 10:31:05:832	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-06 10:31:05:846	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-06 10:31:07:256	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-06 10:31:07:891	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-06 10:31:08:492	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-06 10:31:08:977	Total request was converted to Hexadecimal format.
+Processor
+	1	1	0	1	16	22-02-06 10:31:10:561	Sending processed request to screen transactions queue ...
+Processor
+	1	1	0	1	17	22-02-06 10:31:10:583	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	1	1	0	1	18	22-02-06 10:31:10:599	Sending response to socket ...
+Listener
+	0	0	0	0	19	22-02-06 10:31:10:615	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	20	22-02-06 10:31:10:629	Decrementing sockets. New quantity: 0
+Processor
+	1	1	0	1	21	22-02-06 10:31:10:645	Response was sent to socket.
+ThreadController
+	1	1	0	1	22	22-02-06 10:31:10:660	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	1	1	0	1	23	22-02-06 10:31:10:675	Decrementing Threads Quantity. New Value: 0
+Reader
+	1	1	0	0	24	22-02-06 10:31:10:740	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	25	22-02-06 10:32:31:539	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	26	22-02-06 10:32:31:550	Incrementing sockets. New quantity: 1
+Reader
+	2	1	0	0	27	22-02-06 10:32:31:575	71 bytes were received from socket.
+RequestSpliter
+	2	1	0	0	28	22-02-06 10:32:31:595	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	2	1	0	0	29	22-02-06 10:32:31:611	Request data was received.
+RequestSpliter
+	2	1	0	0	30	22-02-06 10:32:31:636	Total request was converted to Hexadecimal format.
+Processor
+	2	1	0	2	31	22-02-06 10:32:31:683	Sending processed request to screen transactions queue ...
+Processor
+	2	1	0	2	32	22-02-06 10:32:31:689	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	2	1	0	2	33	22-02-06 10:32:31:704	Sending response to socket ...
+Listener
+	0	0	0	0	34	22-02-06 10:32:31:720	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	35	22-02-06 10:32:31:735	Decrementing sockets. New quantity: 0
+Processor
+	2	1	0	2	36	22-02-06 10:32:31:751	Response was sent to socket.
+ThreadController
+	2	1	0	2	37	22-02-06 10:32:31:766	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	2	1	0	2	38	22-02-06 10:32:31:810	Decrementing Threads Quantity. New Value: 0
+Reader
+	2	1	0	0	39	22-02-06 10:32:31:819	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	40	22-02-06 10:32:32:701	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	41	22-02-06 10:32:32:712	Incrementing sockets. New quantity: 1
+Reader
+	3	1	0	0	42	22-02-06 10:32:32:738	71 bytes were received from socket.
+RequestSpliter
+	3	1	0	0	43	22-02-06 10:32:32:744	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	3	1	0	0	44	22-02-06 10:32:32:759	Request data was received.
+RequestSpliter
+	3	1	0	0	45	22-02-06 10:32:32:783	Total request was converted to Hexadecimal format.
+Processor
+	3	1	0	3	46	22-02-06 10:32:32:814	Sending processed request to screen transactions queue ...
+Processor
+	3	1	0	3	47	22-02-06 10:32:32:821	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	3	1	0	3	48	22-02-06 10:32:32:837	Sending response to socket ...
+Listener
+	0	0	0	0	49	22-02-06 10:32:32:852	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	50	22-02-06 10:32:32:867	Decrementing sockets. New quantity: 0
+Listener
+	0	0	0	0	51	22-02-06 10:32:32:882	Incrementing sockets. Current quantity: 0
+Processor
+	3	1	0	3	52	22-02-06 10:32:32:882	Response was sent to socket.
+Listener
+	0	0	0	0	53	22-02-06 10:32:32:898	Incrementing sockets. New quantity: 1
+Reader
+	3	1	0	0	54	22-02-06 10:32:32:939	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	4	1	0	0	55	22-02-06 10:32:32:958	71 bytes were received from socket.
+ThreadController
+	3	1	0	3	56	22-02-06 10:32:32:913	Decrementing Threads Quantity. Old Value: 1
+RequestSpliter
+	4	1	0	0	57	22-02-06 10:32:32:976	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+ThreadController
+	3	1	0	3	58	22-02-06 10:32:32:991	Decrementing Threads Quantity. New Value: 0
+RequestSpliter
+	4	1	0	0	59	22-02-06 10:32:33:008	Request data was received.
+RequestSpliter
+	4	1	0	0	60	22-02-06 10:32:33:078	Total request was converted to Hexadecimal format.
+Processor
+	4	1	0	4	61	22-02-06 10:32:33:110	Sending processed request to screen transactions queue ...
+Processor
+	4	1	0	4	62	22-02-06 10:32:33:116	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	4	1	0	4	63	22-02-06 10:32:33:132	Sending response to socket ...
+Listener
+	0	0	0	0	64	22-02-06 10:32:33:146	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	65	22-02-06 10:32:33:162	Decrementing sockets. New quantity: 0
+Processor
+	4	1	0	4	66	22-02-06 10:32:33:177	Response was sent to socket.
+Listener
+	0	0	0	0	67	22-02-06 10:32:33:177	Incrementing sockets. Current quantity: 0
+ThreadController
+	4	1	0	4	68	22-02-06 10:32:33:192	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	69	22-02-06 10:32:33:209	Incrementing sockets. New quantity: 1
+Reader
+	4	1	0	0	70	22-02-06 10:32:33:233	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	4	1	0	4	71	22-02-06 10:32:33:236	Decrementing Threads Quantity. New Value: 0
+Reader
+	5	1	0	0	72	22-02-06 10:32:33:266	71 bytes were received from socket.
+RequestSpliter
+	5	1	0	0	73	22-02-06 10:32:33:301	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	5	1	0	0	74	22-02-06 10:32:33:316	Request data was received.
+RequestSpliter
+	5	1	0	0	75	22-02-06 10:32:33:341	Total request was converted to Hexadecimal format.
+Processor
+	5	1	0	5	76	22-02-06 10:32:33:387	Sending processed request to screen transactions queue ...
+Processor
+	5	1	0	5	77	22-02-06 10:32:33:407	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	5	1	0	5	78	22-02-06 10:32:33:423	Sending response to socket ...
+Listener
+	0	0	0	0	79	22-02-06 10:32:33:439	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	80	22-02-06 10:32:33:454	Decrementing sockets. New quantity: 0
+Processor
+	5	1	0	5	81	22-02-06 10:32:33:472	Response was sent to socket.
+Listener
+	0	0	0	0	82	22-02-06 10:32:33:513	Incrementing sockets. Current quantity: 0
+Reader
+	5	1	0	0	83	22-02-06 10:32:33:559	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	5	1	0	5	84	22-02-06 10:32:33:578	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	85	22-02-06 10:32:33:594	Incrementing sockets. New quantity: 1
+ThreadController
+	5	1	0	5	86	22-02-06 10:32:33:624	Decrementing Threads Quantity. New Value: 0
+Reader
+	6	1	0	0	87	22-02-06 10:32:33:656	71 bytes were received from socket.
+RequestSpliter
+	6	1	0	0	88	22-02-06 10:32:33:670	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	6	1	0	0	89	22-02-06 10:32:33:686	Request data was received.
+RequestSpliter
+	6	1	0	0	90	22-02-06 10:32:33:711	Total request was converted to Hexadecimal format.
+Processor
+	6	1	0	6	91	22-02-06 10:32:33:743	Sending processed request to screen transactions queue ...
+Processor
+	6	1	0	6	92	22-02-06 10:32:33:749	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	6	1	0	6	93	22-02-06 10:32:33:765	Sending response to socket ...
+Listener
+	0	0	0	0	94	22-02-06 10:32:33:780	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	95	22-02-06 10:32:33:795	Decrementing sockets. New quantity: 0
+Processor
+	6	1	0	6	96	22-02-06 10:32:33:810	Response was sent to socket.
+Listener
+	0	0	0	0	97	22-02-06 10:32:33:810	Incrementing sockets. Current quantity: 0
+ThreadController
+	6	1	0	6	98	22-02-06 10:32:33:826	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	6	1	0	6	99	22-02-06 10:32:33:858	Decrementing Threads Quantity. New Value: 0
+Listener
+	0	0	0	0	100	22-02-06 10:32:33:842	Incrementing sockets. New quantity: 1
+Reader
+	6	1	0	0	101	22-02-06 10:32:33:868	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	7	1	0	0	102	22-02-06 10:32:33:911	71 bytes were received from socket.
+RequestSpliter
+	7	1	0	0	103	22-02-06 10:32:33:934	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	7	1	0	0	104	22-02-06 10:32:33:949	Request data was received.
+RequestSpliter
+	7	1	0	0	105	22-02-06 10:32:33:974	Total request was converted to Hexadecimal format.
+Processor
+	7	1	0	7	106	22-02-06 10:32:34:004	Sending processed request to screen transactions queue ...
+Processor
+	7	1	0	7	107	22-02-06 10:32:34:025	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	7	1	0	7	108	22-02-06 10:32:34:041	Sending response to socket ...
+Listener
+	0	0	0	0	109	22-02-06 10:32:34:057	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	110	22-02-06 10:32:34:072	Decrementing sockets. New quantity: 0
+Processor
+	7	1	0	7	111	22-02-06 10:32:34:088	Response was sent to socket.
+ThreadController
+	7	1	0	7	112	22-02-06 10:32:34:102	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	7	1	0	7	113	22-02-06 10:32:34:134	Decrementing Threads Quantity. New Value: 0
+Reader
+	7	1	0	0	114	22-02-06 10:32:34:128	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	115	22-02-06 10:32:45:752	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	116	22-02-06 10:32:45:760	Incrementing sockets. New quantity: 1
+Reader
+	8	1	0	0	117	22-02-06 10:32:45:786	71 bytes were received from socket.
+RequestSpliter
+	8	1	0	0	118	22-02-06 10:32:45:806	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	8	1	0	0	119	22-02-06 10:32:45:821	Request data was received.
+RequestSpliter
+	8	1	0	0	120	22-02-06 10:32:45:845	Total request was converted to Hexadecimal format.
+Processor
+	8	1	0	8	121	22-02-06 10:32:45:862	Sending processed request to screen transactions queue ...
+Processor
+	8	1	0	8	122	22-02-06 10:32:45:868	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	8	1	0	8	123	22-02-06 10:32:45:883	Sending response to socket ...
+Listener
+	0	0	0	0	124	22-02-06 10:32:45:899	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	125	22-02-06 10:32:45:914	Decrementing sockets. New quantity: 0
+Processor
+	8	1	0	8	126	22-02-06 10:32:45:929	Response was sent to socket.
+Listener
+	0	0	0	0	127	22-02-06 10:32:45:929	Incrementing sockets. Current quantity: 0
+ThreadController
+	8	1	0	8	128	22-02-06 10:32:45:944	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	129	22-02-06 10:32:45:960	Incrementing sockets. New quantity: 1
+ThreadController
+	8	1	0	8	130	22-02-06 10:32:45:975	Decrementing Threads Quantity. New Value: 0
+Reader
+	8	1	0	0	131	22-02-06 10:32:46:027	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	9	1	0	0	132	22-02-06 10:32:46:046	71 bytes were received from socket.
+RequestSpliter
+	9	1	0	0	133	22-02-06 10:32:46:083	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	9	1	0	0	134	22-02-06 10:32:46:098	Request data was received.
+RequestSpliter
+	9	1	0	0	135	22-02-06 10:32:46:122	Total request was converted to Hexadecimal format.
+Processor
+	9	1	0	9	136	22-02-06 10:32:46:156	Sending processed request to screen transactions queue ...
+Processor
+	9	1	0	9	137	22-02-06 10:32:46:176	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	9	1	0	9	138	22-02-06 10:32:46:191	Sending response to socket ...
+Listener
+	0	0	0	0	139	22-02-06 10:32:46:206	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	140	22-02-06 10:32:46:222	Decrementing sockets. New quantity: 0
+Listener
+	0	0	0	0	141	22-02-06 10:32:46:237	Incrementing sockets. Current quantity: 0
+Processor
+	9	1	0	9	142	22-02-06 10:32:46:237	Response was sent to socket.
+ThreadController
+	9	1	0	9	143	22-02-06 10:32:46:308	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	144	22-02-06 10:32:46:253	Incrementing sockets. New quantity: 1
+Reader
+	9	1	0	0	145	22-02-06 10:32:46:304	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	9	1	0	9	146	22-02-06 10:32:46:330	Decrementing Threads Quantity. New Value: 0
+Reader
+	10	1	0	0	147	22-02-06 10:32:46:357	71 bytes were received from socket.
+RequestSpliter
+	10	1	0	0	148	22-02-06 10:32:46:393	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	10	1	0	0	149	22-02-06 10:32:46:409	Request data was received.
+RequestSpliter
+	10	1	0	0	150	22-02-06 10:32:46:435	Total request was converted to Hexadecimal format.
+Processor
+	10	1	0	10	151	22-02-06 10:32:46:478	Sending processed request to screen transactions queue ...
+Processor
+	10	1	0	10	152	22-02-06 10:32:46:485	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	10	1	0	10	153	22-02-06 10:32:46:500	Sending response to socket ...
+Listener
+	0	0	0	0	154	22-02-06 10:32:46:516	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	155	22-02-06 10:32:46:531	Decrementing sockets. New quantity: 0
+Processor
+	10	1	0	10	156	22-02-06 10:32:46:547	Response was sent to socket.
+Listener
+	0	0	0	0	157	22-02-06 10:32:46:547	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	158	22-02-06 10:32:46:609	Incrementing sockets. New quantity: 1
+Reader
+	10	1	0	0	159	22-02-06 10:32:46:621	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	10	1	0	10	160	22-02-06 10:32:46:562	Decrementing Threads Quantity. Old Value: 1
+Reader
+	11	1	0	0	161	22-02-06 10:32:46:644	71 bytes were received from socket.
+ThreadController
+	10	1	0	10	162	22-02-06 10:32:46:654	Decrementing Threads Quantity. New Value: 0
+RequestSpliter
+	11	1	0	0	163	22-02-06 10:32:46:669	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	11	1	0	0	164	22-02-06 10:32:46:701	Request data was received.
+RequestSpliter
+	11	1	0	0	165	22-02-06 10:32:46:726	Total request was converted to Hexadecimal format.
+Processor
+	11	1	0	11	166	22-02-06 10:32:46:756	Sending processed request to screen transactions queue ...
+Processor
+	11	1	0	11	167	22-02-06 10:32:46:763	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	11	1	0	11	168	22-02-06 10:32:46:778	Sending response to socket ...
+Listener
+	0	0	0	0	169	22-02-06 10:32:46:794	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	170	22-02-06 10:32:46:809	Decrementing sockets. New quantity: 0
+Processor
+	11	1	0	11	171	22-02-06 10:32:46:825	Response was sent to socket.
+Listener
+	0	0	0	0	172	22-02-06 10:32:46:825	Incrementing sockets. Current quantity: 0
+ThreadController
+	11	1	0	11	173	22-02-06 10:32:46:840	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	174	22-02-06 10:32:46:855	Incrementing sockets. New quantity: 1
+Reader
+	11	1	0	0	175	22-02-06 10:32:46:907	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	11	1	0	11	176	22-02-06 10:32:46:917	Decrementing Threads Quantity. New Value: 0
+Reader
+	12	1	0	0	177	22-02-06 10:32:46:943	71 bytes were received from socket.
+RequestSpliter
+	12	1	0	0	178	22-02-06 10:32:46:979	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	12	1	0	0	179	22-02-06 10:32:46:995	Request data was received.
+RequestSpliter
+	12	1	0	0	180	22-02-06 10:32:47:019	Total request was converted to Hexadecimal format.
+Processor
+	12	1	0	12	181	22-02-06 10:32:47:052	Sending processed request to screen transactions queue ...
+Processor
+	12	1	0	12	182	22-02-06 10:32:47:072	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	12	1	0	12	183	22-02-06 10:32:47:087	Sending response to socket ...
+Listener
+	0	0	0	0	184	22-02-06 10:32:47:103	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	185	22-02-06 10:32:47:119	Decrementing sockets. New quantity: 0
+Processor
+	12	1	0	12	186	22-02-06 10:32:47:134	Response was sent to socket.
+Listener
+	0	0	0	0	187	22-02-06 10:32:47:134	Incrementing sockets. Current quantity: 0
+ThreadController
+	12	1	0	12	188	22-02-06 10:32:47:150	Decrementing Threads Quantity. Old Value: 1
+Reader
+	12	1	0	0	189	22-02-06 10:32:47:202	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	190	22-02-06 10:32:47:212	Incrementing sockets. New quantity: 1
+ThreadController
+	12	1	0	12	191	22-02-06 10:32:47:227	Decrementing Threads Quantity. New Value: 0
+Reader
+	13	1	0	0	192	22-02-06 10:32:47:299	71 bytes were received from socket.
+RequestSpliter
+	13	1	0	0	193	22-02-06 10:32:47:305	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	13	1	0	0	194	22-02-06 10:32:47:321	Request data was received.
+RequestSpliter
+	13	1	0	0	195	22-02-06 10:32:47:345	Total request was converted to Hexadecimal format.
+Processor
+	13	1	0	13	196	22-02-06 10:32:47:376	Sending processed request to screen transactions queue ...
+Processor
+	13	1	0	13	197	22-02-06 10:32:47:382	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	13	1	0	13	198	22-02-06 10:32:47:397	Sending response to socket ...
+Listener
+	0	0	0	0	199	22-02-06 10:32:47:412	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	200	22-02-06 10:32:47:428	Decrementing sockets. New quantity: 0
+Processor
+	13	1	0	13	201	22-02-06 10:32:47:444	Response was sent to socket.
+Listener
+	0	0	0	0	202	22-02-06 10:32:47:444	Incrementing sockets. Current quantity: 0
+ThreadController
+	13	1	0	13	203	22-02-06 10:32:47:460	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	13	1	0	13	204	22-02-06 10:32:47:509	Decrementing Threads Quantity. New Value: 0
+Listener
+	0	0	0	0	205	22-02-06 10:32:47:475	Incrementing sockets. New quantity: 1
+Reader
+	13	1	0	0	206	22-02-06 10:32:47:502	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	14	1	0	0	207	22-02-06 10:32:47:546	71 bytes were received from socket.
+RequestSpliter
+	14	1	0	0	208	22-02-06 10:32:47:566	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	14	1	0	0	209	22-02-06 10:32:47:581	Request data was received.
+RequestSpliter
+	14	1	0	0	210	22-02-06 10:32:47:606	Total request was converted to Hexadecimal format.
+Processor
+	14	1	0	14	211	22-02-06 10:32:47:638	Sending processed request to screen transactions queue ...
+Processor
+	14	1	0	14	212	22-02-06 10:32:47:658	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	14	1	0	14	213	22-02-06 10:32:47:674	Sending response to socket ...
+Listener
+	0	0	0	0	214	22-02-06 10:32:47:689	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	215	22-02-06 10:32:47:704	Decrementing sockets. New quantity: 0
+Processor
+	14	1	0	14	216	22-02-06 10:32:47:719	Response was sent to socket.
+ThreadController
+	14	1	0	14	217	22-02-06 10:32:47:735	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	14	1	0	14	218	22-02-06 10:32:47:758	Decrementing Threads Quantity. New Value: 0
+Reader
+	14	1	0	0	219	22-02-06 10:32:47:758	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	220	22-02-06 10:32:48:922	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	221	22-02-06 10:32:48:930	Incrementing sockets. New quantity: 1
+Reader
+	15	1	0	0	222	22-02-06 10:32:48:956	71 bytes were received from socket.
+RequestSpliter
+	15	1	0	0	223	22-02-06 10:32:48:977	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	15	1	0	0	224	22-02-06 10:32:48:992	Request data was received.
+RequestSpliter
+	15	1	0	0	225	22-02-06 10:32:49:017	Total request was converted to Hexadecimal format.
+Processor
+	15	1	0	15	226	22-02-06 10:32:49:063	Sending processed request to screen transactions queue ...
+Processor
+	15	1	0	15	227	22-02-06 10:32:49:069	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	15	1	0	15	228	22-02-06 10:32:49:085	Sending response to socket ...
+Listener
+	0	0	0	0	229	22-02-06 10:32:49:101	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	230	22-02-06 10:32:49:116	Decrementing sockets. New quantity: 0
+Processor
+	15	1	0	15	231	22-02-06 10:32:49:132	Response was sent to socket.
+Listener
+	0	0	0	0	232	22-02-06 10:32:49:132	Incrementing sockets. Current quantity: 0
+ThreadController
+	15	1	0	15	233	22-02-06 10:32:49:147	Decrementing Threads Quantity. Old Value: 1
+Reader
+	15	1	0	0	234	22-02-06 10:32:49:170	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	235	22-02-06 10:32:49:178	Incrementing sockets. New quantity: 1
+ThreadController
+	15	1	0	15	236	22-02-06 10:32:49:225	Decrementing Threads Quantity. New Value: 0
+Reader
+	16	1	0	0	237	22-02-06 10:32:49:272	71 bytes were received from socket.
+RequestSpliter
+	16	1	0	0	238	22-02-06 10:32:49:287	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	16	1	0	0	239	22-02-06 10:32:49:303	Request data was received.
+RequestSpliter
+	16	1	0	0	240	22-02-06 10:32:49:328	Total request was converted to Hexadecimal format.
+Processor
+	16	1	0	16	241	22-02-06 10:32:49:359	Sending processed request to screen transactions queue ...
+Processor
+	16	1	0	16	242	22-02-06 10:32:49:395	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	16	1	0	16	243	22-02-06 10:32:49:411	Sending response to socket ...
+Listener
+	0	0	0	0	244	22-02-06 10:32:49:427	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	245	22-02-06 10:32:49:443	Decrementing sockets. New quantity: 0
+Listener
+	0	0	0	0	246	22-02-06 10:32:49:458	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	247	22-02-06 10:32:49:515	Incrementing sockets. New quantity: 1
+Processor
+	16	1	0	16	248	22-02-06 10:32:49:458	Response was sent to socket.
+Reader
+	16	1	0	0	249	22-02-06 10:32:49:515	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	17	1	0	0	250	22-02-06 10:32:49:564	71 bytes were received from socket.
+ThreadController
+	16	1	0	16	251	22-02-06 10:32:49:567	Decrementing Threads Quantity. Old Value: 1
+RequestSpliter
+	17	1	0	0	252	22-02-06 10:32:49:598	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+ThreadController
+	16	1	0	16	253	22-02-06 10:32:49:613	Decrementing Threads Quantity. New Value: 0
+RequestSpliter
+	17	1	0	0	254	22-02-06 10:32:49:630	Request data was received.
+RequestSpliter
+	17	1	0	0	255	22-02-06 10:32:49:670	Total request was converted to Hexadecimal format.
+Processor
+	17	1	0	17	256	22-02-06 10:32:49:715	Sending processed request to screen transactions queue ...
+Processor
+	17	1	0	17	257	22-02-06 10:32:49:721	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	17	1	0	17	258	22-02-06 10:32:49:737	Sending response to socket ...
+Listener
+	0	0	0	0	259	22-02-06 10:32:49:753	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	260	22-02-06 10:32:49:769	Decrementing sockets. New quantity: 0
+Processor
+	17	1	0	17	261	22-02-06 10:32:49:784	Response was sent to socket.
+Listener
+	0	0	0	0	262	22-02-06 10:32:49:784	Incrementing sockets. Current quantity: 0
+ThreadController
+	17	1	0	17	263	22-02-06 10:32:49:800	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	264	22-02-06 10:32:49:818	Incrementing sockets. New quantity: 1
+Reader
+	17	1	0	0	265	22-02-06 10:32:49:858	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	17	1	0	17	266	22-02-06 10:32:49:877	Decrementing Threads Quantity. New Value: 0
+Reader
+	18	1	0	0	267	22-02-06 10:32:49:905	71 bytes were received from socket.
+RequestSpliter
+	18	1	0	0	268	22-02-06 10:32:49:940	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	18	1	0	0	269	22-02-06 10:32:49:955	Request data was received.
+RequestSpliter
+	18	1	0	0	270	22-02-06 10:32:49:983	Total request was converted to Hexadecimal format.
+Processor
+	18	1	0	18	271	22-02-06 10:32:50:025	Sending processed request to screen transactions queue ...
+Processor
+	18	1	0	18	272	22-02-06 10:32:50:031	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	18	1	0	18	273	22-02-06 10:32:50:047	Sending response to socket ...
+Listener
+	0	0	0	0	274	22-02-06 10:32:50:062	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	275	22-02-06 10:32:50:078	Decrementing sockets. New quantity: 0
+Processor
+	18	1	0	18	276	22-02-06 10:32:50:094	Response was sent to socket.
+Listener
+	0	0	0	0	277	22-02-06 10:32:50:094	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	278	22-02-06 10:32:50:125	Incrementing sockets. New quantity: 1
+Reader
+	18	1	0	0	279	22-02-06 10:32:50:135	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+ThreadController
+	18	1	0	18	280	22-02-06 10:32:50:108	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	18	1	0	18	281	22-02-06 10:32:50:202	Decrementing Threads Quantity. New Value: 0
+Reader
+	19	1	0	0	282	22-02-06 10:32:50:151	71 bytes were received from socket.
+RequestSpliter
+	19	1	0	0	283	22-02-06 10:32:50:231	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	19	1	0	0	284	22-02-06 10:32:50:247	Request data was received.
+RequestSpliter
+	19	1	0	0	285	22-02-06 10:32:50:271	Total request was converted to Hexadecimal format.
+Processor
+	19	1	0	19	286	22-02-06 10:32:50:302	Sending processed request to screen transactions queue ...
+Processor
+	19	1	0	19	287	22-02-06 10:32:50:308	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	19	1	0	19	288	22-02-06 10:32:50:324	Sending response to socket ...
+Listener
+	0	0	0	0	289	22-02-06 10:32:50:340	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	290	22-02-06 10:32:50:356	Decrementing sockets. New quantity: 0
+Processor
+	19	1	0	19	291	22-02-06 10:32:50:371	Response was sent to socket.
+Listener
+	0	0	0	0	292	22-02-06 10:32:50:371	Incrementing sockets. Current quantity: 0
+ThreadController
+	19	1	0	19	293	22-02-06 10:32:50:386	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	294	22-02-06 10:32:50:402	Incrementing sockets. New quantity: 1
+ThreadController
+	19	1	0	19	295	22-02-06 10:32:50:445	Decrementing Threads Quantity. New Value: 0
+Reader
+	19	1	0	0	296	22-02-06 10:32:50:490	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	20	1	0	0	297	22-02-06 10:32:50:520	71 bytes were received from socket.
+RequestSpliter
+	20	1	0	0	298	22-02-06 10:32:50:555	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	20	1	0	0	299	22-02-06 10:32:50:571	Request data was received.
+RequestSpliter
+	20	1	0	0	300	22-02-06 10:32:50:597	Total request was converted to Hexadecimal format.
+Processor
+	20	1	0	20	301	22-02-06 10:32:50:628	Sending processed request to screen transactions queue ...
+Processor
+	20	1	0	20	302	22-02-06 10:32:50:648	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	20	1	0	20	303	22-02-06 10:32:50:663	Sending response to socket ...
+Listener
+	0	0	0	0	304	22-02-06 10:32:50:678	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	305	22-02-06 10:32:50:694	Decrementing sockets. New quantity: 0
+Processor
+	20	1	0	20	306	22-02-06 10:32:50:710	Response was sent to socket.
+Listener
+	0	0	0	0	307	22-02-06 10:32:50:710	Incrementing sockets. Current quantity: 0
+ThreadController
+	20	1	0	20	308	22-02-06 10:32:50:725	Decrementing Threads Quantity. Old Value: 1
+Reader
+	20	1	0	0	309	22-02-06 10:32:50:782	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	310	22-02-06 10:32:50:802	Incrementing sockets. New quantity: 1
+ThreadController
+	20	1	0	20	311	22-02-06 10:32:50:818	Decrementing Threads Quantity. New Value: 0
+Reader
+	21	1	0	0	312	22-02-06 10:32:50:864	71 bytes were received from socket.
+RequestSpliter
+	21	1	0	0	313	22-02-06 10:32:50:880	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	21	1	0	0	314	22-02-06 10:32:50:895	Request data was received.
+RequestSpliter
+	21	1	0	0	315	22-02-06 10:32:50:919	Total request was converted to Hexadecimal format.
+Processor
+	21	1	0	21	316	22-02-06 10:32:50:950	Sending processed request to screen transactions queue ...
+Processor
+	21	1	0	21	317	22-02-06 10:32:50:956	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	21	1	0	21	318	22-02-06 10:32:50:972	Sending response to socket ...
+Listener
+	0	0	0	0	319	22-02-06 10:32:50:988	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	320	22-02-06 10:32:51:003	Decrementing sockets. New quantity: 0
+Processor
+	21	1	0	21	321	22-02-06 10:32:51:018	Response was sent to socket.
+ThreadController
+	21	1	0	21	322	22-02-06 10:32:51:034	Decrementing Threads Quantity. Old Value: 1
+Listener
+	0	0	0	0	323	22-02-06 10:32:51:018	Incrementing sockets. Current quantity: 0
+ThreadController
+	21	1	0	21	324	22-02-06 10:32:51:049	Decrementing Threads Quantity. New Value: 0
+Reader
+	21	1	0	0	325	22-02-06 10:32:51:076	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	326	22-02-06 10:32:51:096	Incrementing sockets. New quantity: 1
+Reader
+	22	1	0	0	327	22-02-06 10:32:51:161	71 bytes were received from socket.
+RequestSpliter
+	22	1	0	0	328	22-02-06 10:32:51:173	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	22	1	0	0	329	22-02-06 10:32:51:188	Request data was received.
+RequestSpliter
+	22	1	0	0	330	22-02-06 10:32:51:213	Total request was converted to Hexadecimal format.
+Processor
+	22	1	0	22	331	22-02-06 10:32:51:230	Sending processed request to screen transactions queue ...
+Processor
+	22	1	0	22	332	22-02-06 10:32:51:251	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	22	1	0	22	333	22-02-06 10:32:51:266	Sending response to socket ...
+Listener
+	0	0	0	0	334	22-02-06 10:32:51:282	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	335	22-02-06 10:32:51:298	Decrementing sockets. New quantity: 0
+Listener
+	0	0	0	0	336	22-02-06 10:32:51:313	Incrementing sockets. Current quantity: 0
+Processor
+	22	1	0	22	337	22-02-06 10:32:51:313	Response was sent to socket.
+Listener
+	0	0	0	0	338	22-02-06 10:32:51:328	Incrementing sockets. New quantity: 1
+ThreadController
+	22	1	0	22	339	22-02-06 10:32:51:344	Decrementing Threads Quantity. Old Value: 1
+Reader
+	22	1	0	0	340	22-02-06 10:32:51:394	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Reader
+	23	1	0	0	341	22-02-06 10:32:51:418	71 bytes were received from socket.
+ThreadController
+	22	1	0	22	342	22-02-06 10:32:51:421	Decrementing Threads Quantity. New Value: 0
+RequestSpliter
+	23	1	0	0	343	22-02-06 10:32:51:452	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	23	1	0	0	344	22-02-06 10:32:51:483	Request data was received.
+RequestSpliter
+	23	1	0	0	345	22-02-06 10:32:51:509	Total request was converted to Hexadecimal format.
+Processor
+	23	1	0	23	346	22-02-06 10:32:51:555	Sending processed request to screen transactions queue ...
+Processor
+	23	1	0	23	347	22-02-06 10:32:51:561	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	23	1	0	23	348	22-02-06 10:32:51:576	Sending response to socket ...
+Listener
+	0	0	0	0	349	22-02-06 10:32:51:592	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	350	22-02-06 10:32:51:607	Decrementing sockets. New quantity: 0
+Processor
+	23	1	0	23	351	22-02-06 10:32:51:622	Response was sent to socket.
+ThreadController
+	23	1	0	23	352	22-02-06 10:32:51:638	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	23	1	0	23	353	22-02-06 10:32:51:668	Decrementing Threads Quantity. New Value: 0
+Reader
+	23	1	0	0	354	22-02-06 10:32:51:665	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.

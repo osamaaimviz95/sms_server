@@ -1,0 +1,16 @@
+bin\Release Log\PaymentServer.exe.config
+bin\Release Log\PaymentServer.exe
+bin\Release Log\PaymentServer.XmlSerializers.dll
+bin\Release Log\PaymentServer.pdb
+bin\Release Log\Interop.e24TranPipeLib.dll
+bin\Release Log\Janus.Windows.Common.dll
+bin\Release Log\Janus.Windows.GridEX.dll
+obj\Release Log\ResolveAssemblyReference.cache
+obj\Release Log\SMSServer.csproj.ResolveComReference.cache
+obj\Release Log\MessageViewer.Properties.Resources.resources
+obj\Release Log\MessageViewer.TransViewer.resources
+obj\Release Log\SMSServer.csproj.GenerateResource.Cache
+obj\Release Log\PaymentServer.exe.licenses
+obj\Release Log\PaymentServer.exe
+obj\Release Log\PaymentServer.pdb
+obj\Release Log\PaymentServer.XmlSerializers.dll

@@ -1,0 +1,16 @@
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Debug\PaymentServer.exe.config
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Debug\PaymentServer.exe
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Debug\PaymentServer.pdb
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Debug\Interop.e24TranPipeLib.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Debug\Janus.Windows.Common.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\bin\Debug\Janus.Windows.GridEX.dll
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\SMSServer.csproj.ResolveComReference.cache
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\MessageViewer.Properties.Resources.resources
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\MessageViewer.TransViewer.resources
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\SMSServer.csproj.GenerateResource.cache
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\PaymentServer.exe.licenses
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\SMSServer.csproj.CoreCompileInputs.cache
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\SMSServer.csproj.CopyComplete
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\PaymentServer.exe
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\PaymentServer.pdb
+C:\Users\jctel\OneDrive\Documents\JCT_Documents\ISO8583\ISO8583\FromOLDbackup\Projects\SMSServer\obj\Debug\SMSServer.csproj.AssemblyReference.cache

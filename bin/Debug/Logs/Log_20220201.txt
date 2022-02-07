@@ -1,0 +1,338 @@
+RequestQueue
+	0	0	0	0	1	22-02-01 06:38:01:825	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 06:38:01:848	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 06:38:01:864	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 06:38:01:880	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 06:38:01:962	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 06:38:01:975	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 06:38:01:978	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 06:38:01:991	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 06:38:03:911	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 06:38:24:705	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 06:38:24:723	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 06:38:26:867	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 06:38:26:874	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 06:38:26:890	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 06:38:26:908	Total request was converted to Hexadecimal format.
+Processor
+	1	1	0	1	16	22-02-01 06:38:26:944	Sending processed request to screen transactions queue ...
+Processor
+	1	1	0	1	17	22-02-01 06:38:26:952	0,0,90,220201063826,[END OF MESSAGE MUST BE DIFFERENT TO FIELD SEPARATOR]
+Processor
+	1	1	0	1	18	22-02-01 06:38:26:968	Sending response to socket ...
+Listener
+	0	0	0	0	19	22-02-01 06:38:26:983	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	20	22-02-01 06:38:26:999	Decrementing sockets. New quantity: 0
+Processor
+	1	1	0	1	21	22-02-01 06:38:27:014	Response was sent to socket.
+ThreadController
+	1	1	0	1	22	22-02-01 06:38:27:029	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	1	1	0	1	23	22-02-01 06:38:27:044	Decrementing Threads Quantity. New Value: 0
+Reader
+	1	1	0	0	24	22-02-01 06:38:27:084	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	25	22-02-01 06:40:21:331	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	26	22-02-01 06:40:21:337	Incrementing sockets. New quantity: 1
+Reader
+	2	1	0	0	27	22-02-01 06:40:24:894	71 bytes were received from socket.
+RequestSpliter
+	2	1	0	0	28	22-02-01 06:40:24:908	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	2	1	0	0	29	22-02-01 06:40:24:924	Request data was received.
+RequestSpliter
+	2	1	0	0	30	22-02-01 06:40:24:943	Total request was converted to Hexadecimal format.
+Processor
+	2	1	0	2	31	22-02-01 06:40:24:975	Sending processed request to screen transactions queue ...
+Processor
+	2	1	0	2	32	22-02-01 06:40:24:988	0,0,90,220201064024,[END OF MESSAGE MUST BE DIFFERENT TO FIELD SEPARATOR]
+Processor
+	2	1	0	2	33	22-02-01 06:40:25:004	Sending response to socket ...
+Listener
+	0	0	0	0	34	22-02-01 06:40:25:020	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	35	22-02-01 06:40:25:036	Decrementing sockets. New quantity: 0
+Processor
+	2	1	0	2	36	22-02-01 06:40:25:052	Response was sent to socket.
+ThreadController
+	2	1	0	2	37	22-02-01 06:40:25:068	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	2	1	0	2	38	22-02-01 06:40:25:083	Decrementing Threads Quantity. New Value: 0
+Reader
+	2	1	0	0	39	22-02-01 06:40:25:082	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+Listener
+	0	0	0	0	40	22-02-01 06:41:37:410	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	41	22-02-01 06:41:37:422	Incrementing sockets. New quantity: 1
+Reader
+	3	1	0	0	42	22-02-01 06:41:56:149	71 bytes were received from socket.
+RequestSpliter
+	3	1	0	0	43	22-02-01 06:42:12:351	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	3	1	0	0	44	22-02-01 06:42:19:407	Request data was received.
+RequestSpliter
+	3	1	0	0	45	22-02-01 06:42:22:421	Total request was converted to Hexadecimal format.
+ThreadController
+	3	1	0	3	46	22-02-01 06:42:26:468	Transaction was not processed. It was 25 seconds or more on the queue waiting to be processed.
+RequestQueue
+	0	0	0	0	1	22-02-01 06:44:39:813	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 06:44:39:829	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 06:44:39:844	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 06:44:39:859	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 06:44:39:907	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 06:44:39:921	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 06:44:39:923	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 06:44:39:936	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 06:44:42:165	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 06:44:46:729	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 06:44:46:746	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 06:44:48:950	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 06:44:50:267	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 06:44:50:283	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 06:44:50:302	Total request was converted to Hexadecimal format.
+RequestQueue
+	0	0	0	0	1	22-02-01 06:46:22:862	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 06:46:22:880	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 06:46:22:896	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 06:46:22:911	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 06:46:23:020	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 06:46:23:042	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 06:46:23:049	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 06:46:23:068	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 06:46:25:764	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 06:46:48:465	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 06:46:48:481	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 06:46:54:774	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 06:46:54:785	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 06:46:54:799	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 06:46:54:822	Total request was converted to Hexadecimal format.
+RequestQueue
+	0	0	0	0	1	22-02-01 06:54:06:056	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 06:54:06:072	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 06:54:06:088	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 06:54:06:103	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 06:54:06:135	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 06:54:06:172	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 06:54:06:172	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 06:54:06:188	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 06:54:08:937	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 06:54:14:272	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 06:54:14:303	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 06:54:20:621	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 06:54:20:641	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 06:54:20:661	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 06:54:20:684	Total request was converted to Hexadecimal format.
+Processor
+	1	1	0	1	16	22-02-01 07:01:18:446	Sending processed request to screen transactions queue ...
+Processor
+	1	1	0	1	17	22-02-01 07:01:18:477	12345,0,90,220201070105,[TOO MANY ARGUMENTS]
+Processor
+	1	1	0	1	18	22-02-01 07:01:18:493	Sending response to socket ...
+Notificator
+	0	0	0	0	1	22-02-01 07:01:18:524	Sending email: Socket Error. SocketID=1SocketTransID=1SpliterTransID=0lngTransactionID=1
+Processor
+	1	1	0	1	19	22-02-01 07:01:18:578	Socket Error: System.Byte[]
+ThreadController
+	1	1	0	1	20	22-02-01 07:01:18:593	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	1	1	0	1	21	22-02-01 07:01:18:609	Decrementing Threads Quantity. New Value: 0
+Listener
+	0	0	0	0	22	22-02-01 07:01:24:105	Incrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	23	22-02-01 07:01:24:136	Incrementing sockets. New quantity: 2
+Reader
+	2	1	0	0	24	22-02-01 07:01:26:481	71 bytes were received from socket.
+RequestSpliter
+	2	1	0	0	25	22-02-01 07:01:26:497	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	2	1	0	0	26	22-02-01 07:01:26:513	Request data was received.
+RequestSpliter
+	2	1	0	0	27	22-02-01 07:01:26:528	Total request was converted to Hexadecimal format.
+Processor
+	2	1	0	2	28	22-02-01 07:01:28:083	Sending processed request to screen transactions queue ...
+Processor
+	2	1	0	2	29	22-02-01 07:01:28:093	12345,0,90,220201070128,[TOO MANY ARGUMENTS]
+Processor
+	2	1	0	2	30	22-02-01 07:01:28:108	Sending response to socket ...
+Listener
+	0	0	0	0	31	22-02-01 07:01:28:124	Decrementing sockets. Current quantity: 2
+Listener
+	0	0	0	0	32	22-02-01 07:01:28:140	Decrementing sockets. New quantity: 1
+Processor
+	2	1	0	2	33	22-02-01 07:01:28:155	Response was sent to socket.
+ThreadController
+	2	1	0	2	34	22-02-01 07:01:28:170	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	2	1	0	2	35	22-02-01 07:01:28:179	Decrementing Threads Quantity. New Value: 0
+Reader
+	2	1	0	0	36	22-02-01 07:01:28:210	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+RequestQueue
+	0	0	0	0	1	22-02-01 07:02:12:573	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 07:02:12:604	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 07:02:12:620	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 07:02:12:635	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 07:02:12:673	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 07:02:12:704	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 07:02:12:704	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 07:02:12:720	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 07:02:14:151	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 07:02:18:891	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 07:02:18:907	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 07:02:21:698	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 07:02:21:713	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 07:02:21:729	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 07:02:21:745	Total request was converted to Hexadecimal format.
+Processor
+	1	1	0	1	16	22-02-01 07:02:46:237	Sending processed request to screen transactions queue ...
+Processor
+	1	1	0	1	17	22-02-01 07:02:46:275	USECNFV001 TFRUEPV001 WTHNTAV001 USEUEPV001 STAVERV001 DEPCRDV001 LSTRNSV001 DEPNTAV001 NUCUACV001 BALINQV001 UPCHBLV001 P2PTFRV001 LODXMLV001
+Processor
+	1	1	0	1	18	22-02-01 07:02:46:290	Sending response to socket ...
+Listener
+	0	0	0	0	19	22-02-01 07:02:46:306	Decrementing sockets. Current quantity: 1
+Listener
+	0	0	0	0	20	22-02-01 07:02:46:321	Decrementing sockets. New quantity: 0
+Processor
+	1	1	0	1	21	22-02-01 07:02:46:343	Response was sent to socket.
+ThreadController
+	1	1	0	1	22	22-02-01 07:02:46:359	Decrementing Threads Quantity. Old Value: 1
+ThreadController
+	1	1	0	1	23	22-02-01 07:02:46:375	Decrementing Threads Quantity. New Value: 0
+Reader
+	1	1	0	0	24	22-02-01 07:02:46:390	Cannot access a disposed object.
+Object name: 'System.Net.Sockets.Socket'.
+RequestQueue
+	0	0	0	0	1	22-02-01 07:11:22:737	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 07:11:22:755	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 07:11:22:771	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 07:11:22:787	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 07:11:22:833	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 07:11:22:851	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 07:11:22:853	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 07:11:22:866	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 07:11:24:704	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 07:11:29:681	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 07:11:29:698	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 07:11:33:495	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 07:11:33:513	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 07:11:37:322	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 07:11:37:341	Total request was converted to Hexadecimal format.
+RequestQueue
+	0	0	0	0	1	22-02-01 07:12:35:105	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	22-02-01 07:12:35:120	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	22-02-01 07:12:35:136	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	22-02-01 07:12:35:152	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	22-02-01 07:12:35:202	Starting listener thread ...
+Listener
+	0	0	0	0	6	22-02-01 07:12:35:216	Listener thread started.
+Listener
+	0	0	0	0	7	22-02-01 07:12:35:219	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	22-02-01 07:12:35:232	Application was started.
+Listener
+	0	0	0	0	9	22-02-01 07:12:37:921	Listening on port 6001.
+Listener
+	0	0	0	0	10	22-02-01 07:12:55:368	Incrementing sockets. Current quantity: 0
+Listener
+	0	0	0	0	11	22-02-01 07:12:55:389	Incrementing sockets. New quantity: 1
+Reader
+	1	1	0	0	12	22-02-01 07:13:03:064	71 bytes were received from socket.
+RequestSpliter
+	1	1	0	0	13	22-02-01 07:13:23:375	Byte sequence: 48 48 54 55 48 56 48 48 56 50 50 48 48 48 48 48 48 56 48 48 48 48 48 48 48 52 48 48 48 48 48 48 48 48 48 48 48 48 48 48 48 52 48 57 49 49 49 53 51 48 48 56 56 48 48 49 57 48 57 57 49 54 48 56 56 48 48 49 48 56 49
+RequestSpliter
+	1	1	0	0	14	22-02-01 07:13:45:085	Request data was received.
+RequestSpliter
+	1	1	0	0	15	22-02-01 07:14:24:640	Total request was converted to Hexadecimal format.

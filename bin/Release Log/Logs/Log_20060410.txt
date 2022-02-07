@@ -1,0 +1,50 @@
+RequestQueue
+	0	0	0	0	1	06-04-10 10:55:44:703	Initializing Request Queue ...
+RequestQueue
+	0	0	0	0	2	06-04-10 10:55:44:718	Request Queue was initialized.
+ThreadController
+	0	0	0	0	3	06-04-10 10:55:44:734	Starting Thread Controller thread ...
+ThreadController
+	0	0	0	0	4	06-04-10 10:55:44:750	Thread Controller thread was started.
+Listener
+	0	0	0	0	5	06-04-10 10:55:44:812	Starting listener thread ...
+Listener
+	0	0	0	0	6	06-04-10 10:55:44:828	Listener thread started.
+Listener
+	0	0	0	0	7	06-04-10 10:55:44:828	Beginning to listen on port 6000 ...
+MainScreen
+	0	0	0	0	8	06-04-10 10:55:44:843	Application was started.
+Listener
+	0	0	0	0	9	06-04-10 10:55:44:875	Only one usage of each socket address (protocol/network address/port) is normally permitted
+MainScreen
+	0	0	0	0	10	06-04-10 10:56:24:046	Pausing Listener ...
+Listener
+	0	0	0	0	11	06-04-10 10:56:24:062	Changing status to paused ...
+Listener
+	0	0	0	0	12	06-04-10 10:56:24:078	Changing status to paused ...
+MainScreen
+	0	0	0	0	13	06-04-10 10:56:24:093	Listener Paused.
+MainScreen
+	0	0	0	0	14	06-04-10 10:56:24:109	Finishing pending transactions ...
+ThreadController
+	0	0	0	0	15	06-04-10 10:56:24:125	Resume Work Flag was activated. Pending Requests: 0
+MainScreen
+	0	0	0	0	16	06-04-10 10:56:24:140	Pending transactions Finished.
+MainScreen
+	0	0	0	0	17	06-04-10 10:56:24:156	Disconecting Listener ...
+ThreadController
+	0	0	0	0	18	06-04-10 10:56:24:156	Exiting from Read Queue Loop. Last Transaction Processed: 0
+Listener
+	0	0	0	0	19	06-04-10 10:56:24:171	Changing status to stopped ...
+Listener
+	0	0	0	0	20	06-04-10 10:56:24:203	Status was changed to stopped ...
+Listener
+	0	0	0	0	21	06-04-10 10:56:24:218	Wait until all sockets finish their job ...
+Listener
+	0	0	0	0	22	06-04-10 10:56:24:234	All sockets finished their job.
+Listener
+	0	0	0	0	23	06-04-10 10:56:24:250	Disconnecting from port 6001 ...
+Listener
+	0	0	0	0	24	06-04-10 10:56:24:265	Disconnected from port 6001.
+MainScreen
+	0	0	0	0	25	06-04-10 10:56:24:281	Listener disconected.

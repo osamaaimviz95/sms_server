@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[PaymentServer.sln]
+SCC_Aux_Path = "C:\vss_metro"
+SCC_Project_Name = "$/PaymentServer.root/PaymentServer", KJBAAAAA
+
+[PaymentServer.csproj]
+SCC_Aux_Path = "C:\vss_metro"
+SCC_Project_Name = "$/PaymentServer.root/PaymentServer", KJBAAAAA
